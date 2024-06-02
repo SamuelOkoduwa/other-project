@@ -1,0 +1,2 @@
+# other-project
+Jira Integration
